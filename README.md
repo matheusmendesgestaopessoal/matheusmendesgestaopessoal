@@ -40,6 +40,21 @@ Hoje curso **Análise e Desenvolvimento de Sistemas** e trabalho com análise de
 
 ---
 
+### 🎯 Foco atual
+
+- 📊 **DAX avançado no Power BI**, depois de concluir modelagem dimensional, ETL e qualidade de dados
+- 🔎 **Buscando oportunidades como analista de dados**, com a triagem feita pela minha própria automação
+- ⚙️ **Evoluindo a automação de vagas**: fazer as 10 buscas rodarem e levar mais regras para antes da IA
+
+### 🚀 Próximos passos
+
+- [ ] Transformar as consultas de validação dos projetos em testes automatizados (pytest)
+- [ ] Aprender dbt e orquestração de pipelines, uma lacuna que apareceu nas vagas analisadas
+- [ ] Ganhar fluência em inglês técnico
+- [ ] Publicar um novo projeto com dados reais de outra área
+
+---
+
 ### 📁 Projetos
 
 <table>
@@ -72,6 +87,17 @@ Hoje curso **Análise e Desenvolvimento de Sistemas** e trabalho com análise de
     </td>
   </tr>
 </table>
+
+---
+
+### 🐍 Minhas contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusmendesgestaopessoal/matheusmendesgestaopessoal/output/cobrinha-escura.svg">
+    <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/matheusmendesgestaopessoal/matheusmendesgestaopessoal/output/cobrinha.svg">
+  </picture>
+</p>
 
 ---
 
